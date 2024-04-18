@@ -21,9 +21,9 @@
 
 - 💬 Ask me about **Hibernate and Spring Boot**
 
-- 📫 How to reach me **pravatkiran27@gmail.com**
+- 📫 How to reach me **pravatktimsina@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ptimsina/](https://www.linkedin.com/in/ptimsina/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ptimsina/](https://www.linkedin.com/in/pravatkiran)
 
 - ⚡ Fun fact **I love to Eat, Sleep and Code. I can be in front of Screen for 24 hours non stop.**
 
