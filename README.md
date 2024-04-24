@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pravatktimsina" target="blank"><img src="https://img.shields.io/twitter/follow/pravatktimsina?logo=twitter&style=for-the-badge" alt="pravatktimsina" /></a> </p>
 
-- 🔭 I’m currently working on **A Student Management Application using Java, Spring Boot, MySQL, and Angular.**
+- 🔭 I’m currently working on **A School Quiz Application using Java, Spring Boot, MySQL, and Angular.**
 
 - 🌱 I’m currently learning **Advanced frameworks and courses related to full stack development.**
 
