@@ -11,6 +11,8 @@
 
 ---
 
+<div align="center">
+
 ```yaml
 ╔══════════════════════════════╗
 ║         SYSTEM INFO          ║
@@ -22,6 +24,8 @@
 ║ Focus:     Code. Build.      ║
 ╚══════════════════════════════╝
 ```
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptimsina1127&bg_color=0a0a0a&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=8" width="95%" />
