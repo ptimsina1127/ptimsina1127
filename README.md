@@ -1,44 +1,102 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Pravat Kiran Timsina</h1>
-<h3 align="center">A Passionate Java Full Stack Developer Straight Outta Bay.!!</h3>
-<img align="right" alt="Coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+Hello+World;%3E+I'm+Pravat+Kiran+Timsina;%3E+Full+Stack+Developer;%3E+Code.+Build.+Repeat." alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ptimsina1127&label=Profile%20views&color=0e75b6&style=flat" alt="ptimsina1127" /> </p>
-
-<p align="left"> <a href="https://twitter.com/pravatktimsina" target="blank"><img src="https://img.shields.io/twitter/follow/pravatktimsina?logo=twitter&style=for-the-badge" alt="pravatktimsina" /></a> </p>
-
-- 🔭 I’m currently working on **A School Quiz Application using Java, Spring Boot, MySQL, and Angular.**
-
-- 🌱 I’m currently learning **Advanced frameworks and courses related to full stack development.**
-
-- 👯 I’m looking to collaborate on **A project related to web development or software engineering.**
-
-- 🤝 I’m looking for help with **Improving my skills in React, Vue, and GSAP.**
-
-- 👨‍💻 All of my projects are available at [www.pravatktimsina.com.np](www.pravatktimsina.com.np)
-
-- 📝 I regularly write articles on [www.pravatktimsina.com.np/blog](www.pravatktimsina.com.np/blog)
-
-- 💬 Ask me about **Hibernate and Spring Boot**
-
-- 📫 How to reach me **pravatktimsina@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ptimsina/](https://www.linkedin.com/in/pravatkiran)
-
-- ⚡ Fun fact **I love to Eat, Sleep and Code. I can be in front of Screen for 24 hours non stop.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ptimsina1127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ptimsina1127" height="30" width="40" /></a>
-<a href="https://twitter.com/pravatktimsina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pravatktimsina" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ptimsina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ptimsina/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ptimsina1127&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile Views" />
+  <a href="https://twitter.com/pravatktimsina" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/pravatktimsina?color=00f7ff&label=TWITTER&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptimsina1127&show_icons=true&locale=en&layout=compact" alt="ptimsina1127" /></p>
+```yaml
+╔══════════════════════════════╗
+║         SYSTEM INFO          ║
+╠══════════════════════════════╣
+║ Name:      Pravat Kiran      ║
+║ Role:      Java Full Stack   ║
+║ Status:    Online            ║
+║ Location:  Bay Area          ║
+║ Focus:     Code. Build.      ║
+╚══════════════════════════════╝
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptimsina1127&show_icons=true&locale=en" alt="ptimsina1127" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptimsina1127&bg_color=0a0a0a&color=00f7ff&line=00f7ff&point=ffffff&area=true&area_color=00f7ff&hide_border=true&radius=8" width="95%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ptimsina1127&" alt="ptimsina1127" /></p>
+## ⚡ CURRENT STATUS
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🔭_WORKING_ON-School_Quiz_App-00f7ff?style=for-the-badge" /><br/>
+      <sub>Java · Spring Boot · MySQL · Angular</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌱_LEARNING-Advanced_Frameworks-00f7ff?style=for-the-badge" /><br/>
+      <sub>React · Vue · GSAP · Cloud</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/📫_CONTACT-pravatktimsina%40gmail.com-00f7ff?style=for-the-badge" /><br/>
+      <sub>Let's connect & build something</sub>
+    </td>
+  </tr>
+</table>
+
+## 💻 TECH STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptimsina1127&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptimsina1127&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00f7ff&text_color=ffffff&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptimsina1127&theme=dark&background=0a0a0a&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=aaaaaa&hide_border=true" width="70%" />
+</div>
+
+## 🌐 NETWORK INTERFACE
+
+<p align="center">
+  <a href="https://dev.to/ptimsina1127" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=00f7ff" />
+  </a>
+  <a href="https://twitter.com/pravatktimsina" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=00f7ff" />
+  </a>
+  <a href="https://www.linkedin.com/in/ptimsina/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00f7ff" />
+  </a>
+  <a href="https://www.pravatktimsina.com.np" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00f7ff" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
+</div>
+
+<div align="center">
+  <sub>>_ System ready. Always coding. 🚀</sub>
+</div>
