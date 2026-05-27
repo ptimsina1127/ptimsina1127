@@ -66,8 +66,9 @@
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptimsina1127&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ptimsina1127&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00f7ff&text_color=ffffff&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ptimsina1127&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ptimsina1127&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ptimsina1127&theme=github_dark" />
 </div>
 
 <div align="center">
