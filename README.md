@@ -12,8 +12,7 @@
 ---
 
 <div align="center">
-
-```yaml
+<pre>
 ╔══════════════════════════════╗
 ║         SYSTEM INFO          ║
 ╠══════════════════════════════╣
@@ -23,8 +22,7 @@
 ║ Location:  Bay Area          ║
 ║ Focus:     Code. Build.      ║
 ╚══════════════════════════════╝
-```
-
+</pre>
 </div>
 
 <div align="center">
